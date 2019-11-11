@@ -4,7 +4,7 @@ class Image extends Component {
   constructor() {
     super()
     this.state = {
-      collectionIDs: [],
+      collectionIDs: ['KMS8419', 'kks1982-156'],
       id: 'kks1982-156',
       // Try other ids, for example 'kks1982-156',
     }
