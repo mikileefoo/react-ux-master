@@ -11,7 +11,8 @@ const SecondPage = () => (
     <Card title="Headline for kort" text="Flere sektioner" />
 
     <Link to="/">Go back to the homepage</Link>
-    <Image />
+    <Image collectionID="KKSgb11925" />
+    <Image collectionID="KMS8419" />
 
     {staticdata.cells.map(cell => (
       <Cell title={cell.title} image={cell.image} audio={cell.audio} />
