@@ -1,0 +1,16 @@
+{
+    "cells": [
+        {
+            "title": "Billede 1",
+            "image": "http://cspic.smk.dk/globus/CORPUS%202016/kms8700.jpg",
+            "audio": "https://filebin.net/wqzz7we96ftn09fm/tal_r.mp3?t=p2ji9rgx",
+            "audio_att": true
+        },
+        {
+            "title": "Billede 2",
+            "image": "http://cspic.smk.dk/globus/GLOBUS%202011/KKS18089_1.jpg",
+            "audio": "",
+            "audio_att": false
+        }
+    ]
+}
